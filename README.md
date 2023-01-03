@@ -1,1 +1,1 @@
-# Rubiks-Tiles-Rhythm-Game
+# Rubiks Tiles Rhythm Game
